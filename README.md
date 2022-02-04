@@ -6,8 +6,8 @@
 - 📫 Contate-me no email: almeidaandreluz@gmail.com
 <div align="center">
   <a href="https://github.com/andrealmeidaluz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrealmeidaluz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrealmeidaluz&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrealmeidaluz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrealmeidaluz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <div style="display: inline_block"><br>
