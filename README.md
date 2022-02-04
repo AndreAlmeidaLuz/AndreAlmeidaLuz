@@ -4,6 +4,8 @@
 - 🔭 WebDeveloper JR
 - 🌱 Atualmente estou estudando ReactJs, Typescript, NodeJs...
 - 📫 Contate-me no email: almeidaandreluz@gmail.com
+- 📞(63) 99273-2825
+
 <div align="center">
   <a href="https://github.com/andrealmeidaluz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrealmeidaluz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
