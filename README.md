@@ -2,8 +2,8 @@
 
 
 - 🔭 WebDeveloper JR
-- Graduando no curso de Sistemas de Informação.
-- 🌱 Atualmente estou estudando ReactJs, Typescript, NodeJs...
+- Sou Bacharel em Sistemas de Informação, formado no Instituto Federal do Tocantins (IFTO).
+- 🌱 Atualmente estou estudando Javascript, ReactJs, Typescript, NodeJs, Docker...
 - 📫 Contate-me no email: almeidaandreluz@gmail.com
 - 📞(63) 99273-2825
 
